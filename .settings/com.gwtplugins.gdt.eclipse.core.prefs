@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=org.sigom.demo.CamundaGWT
+gwtMavenModuleShortName=CamundaGWT
+lastWarOutDir=C\:/CFT WebUI/cft_web_ui/CamundaGWT/target/CamundaGWT-1.0-SNAPSHOT
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=false
